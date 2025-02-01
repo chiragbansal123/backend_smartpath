@@ -1,0 +1,11 @@
+{
+  "name": "backend_smartpath",
+  "version": "1.0.0",
+  "description": "Assesment of smartpath",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chirag Bansal",
+  "license": "ISC"
+}
